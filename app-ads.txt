@@ -1,4 +1,4 @@
-ownerdomain=kwael2397-cyber.github.io
+ownerdomain=tornado-alpha.github.io
 appads.in, 106246, RESELLER
 opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
 smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
